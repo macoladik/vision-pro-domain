@@ -37,6 +37,7 @@ body {
     z-index: 2;
     color: #858585;
     margin-top: auto;
+    text-align: center;
 }
 .video-bg__content h1 {
     font-size: 1em;
@@ -46,6 +47,7 @@ body {
     font-size: 0.3em;
     text-align: center;
     color:#858585;
+    margin-block-start: 0.1em;
 }
 .main {
     max-width: 1600px;
