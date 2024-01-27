@@ -55,3 +55,9 @@ body {
     margin-top: 50px;
     padding: 0 20px;
 }
+/* Правила для мобильных устройств */
+@media only screen and (max-width: 768px) {
+    .video-bg video {
+        height: auto;
+    }
+}
